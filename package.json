@@ -1,0 +1,7 @@
+{
+  "name": "tests-crud",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "thiaguinhoo <thiagoluizsog@gmail.com>",
+  "license": "MIT"
+}
